@@ -13,7 +13,7 @@ UI-Clone-Login-Instagram
 ## Resultado da aplicação
 
 <div align="center">
-    <img  src="./git/main.jpg" width="500" />
+    <img  src="./git/main.gif" width="500" />
 </div>
 
 ## Objetivo do Projeto
@@ -33,4 +33,4 @@ Nesse projeto foi praticado tecnicas basicas de HTML e CSS para tornar o designe
 
 ## Deploy
 O deploy da pagina foi feito atravez da plataforma Vercel <br>
-Link do Deploy: 
+Link do Deploy: https://ui-clone-login-instagram.vercel.app/
